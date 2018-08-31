@@ -17,7 +17,7 @@
 | 照片剪辑 | | Imagination |
 | 音频编辑 | Adobe Audition | Audacity |
 | 视频编辑 | 会声会影 | Kdenlive |
-| Midi音乐创作 | | MuseScore |
+| 作曲和乐谱制作 | | MuseScore |
 | UI 线框图工具 |  | Pencil |
 | 3D建模和动画 | | Blender |
 | 数字音频编辑 | | Audacity |
